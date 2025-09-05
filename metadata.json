@@ -1,0 +1,5 @@
+{
+  "name": "Web NVRAM Configuration Manager",
+  "description": "A web-based tool to simulate and manage NVRAM (Non-Volatile RAM) key-value pairs. This application allows developers to visualize, add, edit, and delete configuration settings, persisting them in the browser's local storage to mimic an embedded device's NVRAM.",
+  "requestFramePermissions": []
+}
